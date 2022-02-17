@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "babel ./src/index.js --out-file dist.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
+}
